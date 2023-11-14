@@ -14,6 +14,5 @@ public class A9_2908 {
         B = Integer.parseInt(new StringBuilder().append(B).reverse().toString());
 
         System.out.print(A > B ? A : B);
-
     }
 }
